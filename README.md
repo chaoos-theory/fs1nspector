@@ -30,3 +30,4 @@ Include criteria specification that will allow to highlight specific files based
 - pattern in name
 - pattern in full path (including name)
 
+Allow file type coloring based on config file read at startup. 
