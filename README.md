@@ -18,7 +18,7 @@ Gray ==> extension unknown or missing.
 
 
 #### TODO
-Allow for criteria specification that will allow to highlight based on:
+Include criteria specification that will allow to highlight specific files based on:
 - file type
 - given file type category (as in image, media, documents, iso, etc)
 - size limit over or under
